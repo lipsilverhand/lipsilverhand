@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats-khaki-seven-17.vercel.app/api?username=lipsilverhand&show_icons=true&theme=radical)
