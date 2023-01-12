@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-khaki-seven-17.vercel.app/api?username=lipsilverhand&show_icons=true&theme=tokyonight)
+
+[![Spotify](https://spotify-now-playing-ecru-beta.vercel.app/api/spotify)](https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly)
