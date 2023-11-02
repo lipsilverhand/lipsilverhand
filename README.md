@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Music:
+
 [![Spotify](https://spotify-now-playing-ecru-beta.vercel.app/api/spotify)](https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly)
