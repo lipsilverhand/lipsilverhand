@@ -1,6 +1,6 @@
 ### HELLO WORLD 👋
 
-# 🎧 Music:
+# 🎧 Music playing:
 
 <div>
   <a href="https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly">
