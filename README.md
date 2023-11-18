@@ -2,7 +2,7 @@
 
 # Music:
 
-<a href="https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly">
+<a align="center" href="https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly">
   <img src="https://spotify-now-playing-ecru-beta.vercel.app/api/spotify" alt="Spotify Now Playing" width="300" height="80">
 </a>
 
