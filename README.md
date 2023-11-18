@@ -2,8 +2,8 @@
 
 # Music:
 
-<a align="center" href="https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly">
-  <img src="https://spotify-now-playing-ecru-beta.vercel.app/api/spotify" alt="Spotify Now Playing" width="300" height="80">
+<a href="https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly">
+  <img src="https://spotify-now-playing-ecru-beta.vercel.app/api/spotify" alt="Spotify Now Playing" width="1000" height="400">
 </a>
 
 # 📊 GitHub Stats:
