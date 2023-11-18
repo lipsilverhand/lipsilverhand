@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly">
-    <img src="https://spotify-now-playing-ecru-beta.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" height="200">
+    <img src="https://spotify-now-playing-ecru-beta.vercel.app/api/spotify" alt="Spotify Now Playing">
   </a>
 </div>
 
