@@ -10,7 +10,7 @@
 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lipsilverhand&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="600" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipsilverhand&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Streak Stats" width="350" height="200">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lipsilverhand&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="700" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipsilverhand&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Streak Stats" width="350" height="200">
 
 
 # 💻 Tech Stack:
