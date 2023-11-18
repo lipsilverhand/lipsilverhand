@@ -1,8 +1,10 @@
 ### HELLO WORLD 👋
 
-Music:
+# Music:
 
-[![Spotify](https://spotify-now-playing-ecru-beta.vercel.app/api/spotify)](https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly)
+<a href="https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly">
+  <img src="https://spotify-now-playing-ecru-beta.vercel.app/api/spotify" alt="Spotify Now Playing" width="300" height="80">
+</a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lipsilverhand&theme=tokyonight&hide_border=false | width=100)
