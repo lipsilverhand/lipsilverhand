@@ -2,9 +2,12 @@
 
 # Music:
 
-<a href="https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly">
-  <img src="https://spotify-now-playing-ecru-beta.vercel.app/api/spotify" alt="Spotify Now Playing" width="1000" height="400">
-</a>
+<div align="center">
+  <a href="https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly">
+    <img src="https://spotify-now-playing-ecru-beta.vercel.app/api/spotify" alt="Spotify Now Playing" width="600" height="200">
+  </a>
+</div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lipsilverhand&theme=tokyonight&hide_border=false | width=100)
