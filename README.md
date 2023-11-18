@@ -2,7 +2,7 @@
 
 # Music:
 
-<div align="center">
+<div>
   <a href="https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly">
     <img src="https://spotify-now-playing-ecru-beta.vercel.app/api/spotify" alt="Spotify Now Playing">
   </a>
@@ -10,7 +10,7 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipsilverhand&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Streak Stats" width="350" height="200">
 </div>
 
