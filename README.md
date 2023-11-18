@@ -5,7 +5,7 @@ Music:
 [![Spotify](https://spotify-now-playing-ecru-beta.vercel.app/api/spotify)](https://open.spotify.com/user/31nuyc5nwu6avhp5ufhbuw4izzly)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=lipsilverhand&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lipsilverhand&theme=tokyonight&hide_border=false | width=100)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lipsilverhand&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 💻 Tech Stack:
