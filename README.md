@@ -13,7 +13,9 @@ Music:
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lipsilverhand&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<div align = "center">
+  ![](https://github-profile-trophy.vercel.app/?username=lipsilverhand&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 
 ### ✍️ Random Dev Quote
